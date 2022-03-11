@@ -1,0 +1,33 @@
+.activities__contain{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    margin-left: 19px;
+    border: 1px solid black;
+    
+    
+}
+
+.activities__item{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 10px;
+    text-align: center;
+    padding: 10px;
+}
+
+.activities__title{
+
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.activities__notfount{
+    font-size: 1.2rem;
+    text-align: center;
+
+}
